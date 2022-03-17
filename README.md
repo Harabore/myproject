@@ -1,3 +1,3 @@
 # myproject
-A BMI calculator Application
+A BMI calculator ApplicationS
 HARABORE
